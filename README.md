@@ -16,6 +16,7 @@ Software Engineer | PhD Researcher | AI & Full-Stack Developer
 - 💻 Software Engineer with **9+ years of experience**
 - 🎓 **PhD Researcher in Intelligent Systems & Optimization**
 - 🤖 Specialized in **Artificial Intelligence & Optimization**
+- 🔥 Passionate **Laravel / VueJS / Flutter geek** building scalable and high-performance applications
 - 🌍 Based in **Rabat, Morocco**
 - 🛠️ Expertise in **project management, system design & integration**
 - 📱 I build **web, mobile, and intelligent systems**
