@@ -19,7 +19,7 @@ Software Engineer | PhD Researcher | AI & Full-Stack Developer
 - 🌍 Based in **Rabat, Morocco**
 - 🛠️ Expertise in **project management, system design & integration**
 - 📱 I build **web, mobile, and intelligent systems**
-- 🔬 Research focus: **Energy systems optimization, AI-based control, smart systems**
+- 🔬 Research focus: **Systems optimization, AI-based control, smart systems**
 
 ---
 
