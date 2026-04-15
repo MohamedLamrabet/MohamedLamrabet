@@ -13,7 +13,7 @@ Software Engineer | PhD Researcher | AI & Full-Stack Developer
 
 ## 🚀 About Me
 
-- 💻 Software Engineer with **7+ years of experience**
+- 💻 Software Engineer with **9+ years of experience**
 - 🎓 **PhD Researcher in Intelligent Systems & Optimization**
 - 🤖 Specialized in **Artificial Intelligence & Optimization**
 - 🌍 Based in **Rabat, Morocco**
