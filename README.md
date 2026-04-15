@@ -16,7 +16,7 @@ Software Engineer | PhD Researcher | AI & Full-Stack Developer
 - 💻 Software Engineer with **9+ years of experience**
 - 🎓 **PhD Researcher in Intelligent Systems & Optimization**
 - 🤖 Specialized in **Artificial Intelligence & Optimization**
-- 🔥 Passionate **Laravel / VueJS / Flutter geek** building scalable and high-performance applications
+- 🔥 Passionate **PHP/Laravel, Vue.js, WordPress, Flutter, Python & PyTorch developer**
 - 🌍 Based in **Rabat, Morocco**
 - 🛠️ Expertise in **project management, system design & integration**
 - 📱 I build **web, mobile, and intelligent systems**
@@ -30,24 +30,23 @@ Software Engineer | PhD Researcher | AI & Full-Stack Developer
 - 🧠 **LLM (Large Language Models)**
 - 👁️ **Computer Vision (CNN, YOLO)**
 - ⚡ **Optimization Algorithms (GA, PSO, Hybrid methods)**
+- 🔬 **PyTorch & AI model development**
 - 📊 **Python, AI modeling & simulation**
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
+### 💻 Core Technologies
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ⚙️ Frameworks & Tools
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### 🧠 AI & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 🌐 Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,9 +54,8 @@ Software Engineer | PhD Researcher | AI & Full-Stack Developer
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 
-### 🗄️ Database & CMS
+### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
