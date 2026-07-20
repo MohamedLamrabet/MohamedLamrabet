@@ -78,7 +78,6 @@ Software Engineer | PhD Researcher | AI & Full-Stack Developer
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:mr.mohamed.lamrabet@gmail.com" target="_blank">📧 Email</a><br/>
   <a href="https://github.com/mohamedlamrabet" target="_blank">🐙 GitHub</a><br/>
   <a href="https://www.linkedin.com/in/mr-mohamed-lamrabet" target="_blank">💼 LinkedIn</a>
 </p>
