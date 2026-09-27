@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed LAMRABET</h1><h3 align="center">
-Senior Software Engineer & AI Engineer | PhD in AI | Intelligent Transportation Systems | Full-Stack Development
+Senior Software & AI Engineer | PhD in AI
 </h3><p align="center">
   <a href="https://github.com/mohamedlamrabet">
     <img src="https://komarev.com/ghpvc/?username=mohamedlamrabet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
