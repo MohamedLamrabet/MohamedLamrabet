@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed LAMRABET</h1>
 <h3 align="center">
-Software Engineer | PhD Researcher | AI & Full-Stack Developer
+Senior Software Engineer & AI Engineer | PhD in AI | Intelligent Transportation Systems | Full-Stack Development
 </h3>
 
 <p align="center">
