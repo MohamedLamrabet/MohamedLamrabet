@@ -11,7 +11,7 @@ Senior Software & AI Engineer | PhD in AI
 - 💻 Senior Software Engineer with 9+ years of professional experience
 - 🎓 PhD in Artificial Intelligence
 - 🤖 Specialized in AI, Optimization, Computer Vision, and Intelligent Systems
-- 🔥 Experienced in Laravel, Vue.js, Flutter, Python, and PyTorch
+- 🔥 Experienced in Laravel, Vue.js, Flutter, Python, PyTorch and LlamaIndex
 - 📱 I build web, mobile, and AI-powered applications
 - 🧠 Interested in LLMs, RAG, AI Agents, and Computer Vision
 - 🔬 Research background in Intelligent Transportation Systems, Traffic Optimization, and Road Safety
